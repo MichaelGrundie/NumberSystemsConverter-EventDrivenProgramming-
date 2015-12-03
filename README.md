@@ -10,3 +10,5 @@ number systems. I had to determine the user requirements from
 the client(Northern Regional College Computing Department.)
 I then had to plan and document the process before writing
 this code as the implementation.
+
+For this project I used C# windows forms in Visual Studio.
