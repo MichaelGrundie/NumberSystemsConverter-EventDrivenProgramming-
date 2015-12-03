@@ -17,7 +17,7 @@ namespace ProjNumberSystemsConverter
         {
             _frmNSC = frmNsc;
             InitializeComponent();
-            this.ControlBox = false;//Disable the control box
+            this.ControlBox = false;//Disable the control box.
 
 
             switch (_frmNSC.checkRef)// Finds out which conversion is being applied.

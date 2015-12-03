@@ -49,7 +49,7 @@ namespace ProjNumberSystemsConverter
             
         }
 
-        private void btnConvert_Click(object sender, EventArgs e)//Convert Button
+        private void btnConvert_Click(object sender, EventArgs e)//Convert Button... Starts the conversion.
         {
             //Cleard output and working areas of an previous conversion info.
             txtOutput.Clear();
